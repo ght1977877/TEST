@@ -75,5 +75,8 @@ int main(void)
 		HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_RESET);		//PB5??0
 		HAL_GPIO_WritePin(GPIOE,GPIO_PIN_5,GPIO_PIN_RESET);		//PE5??0  
 		Delay(0x7FFFFF);
+Delay(0x7FFFFF);
+Delay(0x7FFFFF);
+Delay(0x7FFFFF);
 	}
 }

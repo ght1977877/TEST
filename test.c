@@ -77,6 +77,6 @@ int main(void)
 		Delay(0x7FFFFF);
 Delay(0x7FFFFF);
 Delay(0x7FFFFF);
-Delay(0x7FFFFF);
+Delay(0x7FFFFF);//ÐÞ¸Ä¹ØºìÌÎ
 	}
 }
